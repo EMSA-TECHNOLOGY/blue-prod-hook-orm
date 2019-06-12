@@ -1,8 +1,8 @@
-# sails-hook-orm
+# blue-prod-hook-orm
 
-Implements support for Waterline ORM in Sails.
+Implements support for Waterline ORM in blue-prod.
 
-> This is a core hook in the Sails.js framework.  You can override or disable it using your sailsrc file or environment variables.  See [Concepts > Configuration](http://sailsjs.com/docs/concepts/configuration) for more information.
+> This is a core hook in the blue-prod framework.  You can override or disable it using your sailsrc file or environment variables.  See [Concepts > Configuration](http://sailsjs.com/docs/concepts/configuration) for more information.
 
 
 ## Dependencies
@@ -201,19 +201,16 @@ Yes.  To override this hook, define your replacement hook with `identity: orm` i
 If you have further questions or are having trouble, click [here](http://sailsjs.com/support).
 
 
-## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/sails-hook-orm.svg)](http://npmjs.com/package/sails-hook-orm)
+## Bugs &nbsp; [![NPM version](https://badge.fury.io/js/blue-prod-hook-orm.svg)](http://npmjs.com/package/blue-prod-hook-orm)
 
-To report a bug, [click here](http://sailsjs.com/bugs).
+To report a bug, [click here](https://github.com/EMSA-TECHNOLOGY/blue-prod-hook-orm/issues).
 
 
 ## Contributing
 
-Please observe the guidelines and conventions laid out in the [Sails project contribution guide](http://sailsjs.com/documentation/contributing) when opening issues or submitting pull requests.
-
-[![NPM](https://nodei.co/npm/sails-hook-orm.png?downloads=true)](http://npmjs.com/package/sails-hook-orm)
+[![NPM](https://nodei.co/npm/blue-prod-hook-orm.png?downloads=true)](http://npmjs.com/package/blue-prod-hook-orm)
 
 
 ## License
 
-The [Sails framework](http://sailsjs.com) is free and open-source under the [MIT License](http://sailsjs.com/license).
-
+The [blue-prod framework](https://github.com/EMSA-TECHNOLOGY/blue-prod) is free and open-source under the [MIT License](https://github.com/EMSA-TECHNOLOGY/blue-prod/blob/master/LICENSE.md).
